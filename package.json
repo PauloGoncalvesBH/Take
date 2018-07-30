@@ -1,0 +1,16 @@
+{
+  "name": "take",
+  "version": "1.0.0",
+  "description": "Processo seletivo da Take.",
+  "main": "Menu.spec.js",
+  "scripts": {
+  },
+  "author": "Paulo Henrique Rocha Gonçalves",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.4.0"
+  },
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1"
+  }
+}
